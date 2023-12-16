@@ -1,6 +1,6 @@
 # Anomaly detection with fast calorimeter simulators
 ## by Claudius Krause, Benjamin Nachman, Ian Pang, David Shih and Yunhao Zhu
-This repository contains the source code used to produce results of
+This repository contains the source code used to produce the results of
 
 _"Anomaly detection with fast calorimeter simulators"_ by Claudius Krause, Benjamin Nachman, Ian Pang, David Shih and Yunhao Zhu, [arxiv: 2312.xxxx]
 
