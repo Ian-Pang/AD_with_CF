@@ -13,5 +13,5 @@ The new dataset can be found at https://zenodo.org/records/10393540.
 Please see https://gitlab.com/claudius-krause/caloflow for instructions on training CaloFlow.
 
 ### Computing likelihood for anomaly detection
-
+To use trained flows to compute likelihood for anomaly detection, run
 `python run.py -p=gamma --LL_analysis --data_dir=path/to/data/ --output_dir ./results/ --with_noise --sample_file_name=SAMPLE_FILE_NAME`
